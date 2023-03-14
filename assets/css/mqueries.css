@@ -27,7 +27,7 @@
             padding: 15px;
 
         }
-
+        
         header {
             max-width: 992px;
             margin: 0 auto;
@@ -169,14 +169,14 @@
             color: #090a0f;
 
         }
-        /* Footer */
+        /******Footer****/
         .footer .grupo-1 {
-        width: 100%;
-        margin: 0 auto;
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-gap: 25px;
-        padding: 35px 0px;
+            width: 100%;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-gap: 25px;
+            padding: 35px 0px;
 
         }
 
